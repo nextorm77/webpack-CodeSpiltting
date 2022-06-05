@@ -7,3 +7,7 @@ npm i
 ```
 
 ## Entry Points
+
+## Prevent Duplication
+
+### Entry dependencies
