@@ -11,3 +11,5 @@ npm i
 ## Prevent Duplication
 
 ### Entry dependencies
+
+### SplitChunksPlugin
